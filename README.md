@@ -63,6 +63,7 @@ Add WeChat | 添加江树微信: **1796060717**
 | [adk-rust](https://github.com/zavora-ai/adk-rust) | ![GitHub Repo stars](https://badgen.net/github/stars/zavora-ai/adk-rust) | Rust Agent Development Kit with built-in realtime voice agent support for building and deploying AI agents. | Rust 版 Agent 开发套件，内置实时语音 Agent 支持 |
 | [flowcat](https://github.com/AreevAI/flowcat) | ![GitHub Repo stars](https://badgen.net/github/stars/AreevAI/flowcat) | Self-hosted native-Rust runtime for real-time voice agents: one binary in your own VPC or air-gapped, no hosted control plane, pipecat-compatible pipeline with in-process SIP/RTP. Apache-2.0. | 纯 Rust 实时语音 Agent 运行时，单二进制自托管于自有 VPC，pipecat 兼容，内置 SIP/RTP |
 | [Gradbot](https://github.com/gradium-ai/gradbot) | ![GitHub Repo stars](https://badgen.net/github/stars/gradium-ai/gradbot) | Open-source Rust framework to prototype voice agents on Gradium TTS/STT APIs. Apache-2.0. | Rust 开源框架，基于 Gradium API 快速搭建语音智能体 |
+| [Unmute (SLNG)](https://github.com/slng-ai/unmute) | ![GitHub Repo stars](https://badgen.net/github/stars/slng-ai/unmute) | Declarative format for voice agents: define once in YAML and compile to Pipecat or LiveKit. Generated Python is yours — Dockerfile, pinned deps — and deploys to Pipecat Cloud, LiveKit Cloud, SLNG or your own infrastructure. Apache-2.0. | SLNG 出品，一次定义，编译到 Pipecat 或 LiveKit，生成代码归你所有 |
 
 ### Specialized Solutions | 专用解决方案
 
